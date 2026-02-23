@@ -1,18 +1,21 @@
-# Fatec - Centro Paula Souza
-## TechNinja - Projeto Integrador 4º Semestre FATEC Luigi Papaiz
+## TechNinja - Projeto Integrador
 ### Descrição
 Sistema que visa oferecer uma plataforma educacional interativa para usuários interessados em aprender programação através de quizzes.
 
 <div align="center">
-  <img width="655" height="565" alt="LogoWhite" src="https://github.com/user-attachments/assets/c9b541a2-5bb6-4206-a174-e6edbe58b0d1" />
+   <img src="https://github.com/user-attachments/assets/fb5772d4-e1f7-41a4-89d6-02a6c15df763" alt='Logo do TechNinja' />
+  
 </div>
 
-### Time de Desenvolvimento
-- [Julia Ayumi](https://github.com/JuliaAyumi)
-- [Luan Beserra](https://github.com/luan-beserra)
-- [Matheus Duarte](https://github.com/matheusduartedevs)
-- [Pedro Henrique](https://github.com/PedroHHCarvalho)
+## Sobre este fork
 
+Este repositório é um fork do projeto integrador desenvolvido em grupo ao longo da graduação de Desenvolvimento de Software Multiplataforma na FATEC Diadema.
+
+Link para repositório original: https://github.com/JuliaAyumi/TechNinja-FATEC-backend
+
+Participei do desenvolvimento do projeto como colaborador, contribuindo com a **implementação de funcionalidades** 
+
+Este fork é mantido como parte do meu portfólio pessoal.
 ## Stack utilizada
 **Back-end:** Node.js, Javascript <br />
 **Banco de Dados:** MongoDB
